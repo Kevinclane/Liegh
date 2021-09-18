@@ -1,0 +1,7 @@
+{
+  "name": "Liegh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
